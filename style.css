@@ -28,9 +28,6 @@ main {
     width: 200px;
     height: 200px;
     padding: 5px;
-    background-image: url(assets/profile.jfif);
-    background-size: cover;
-    background-clip: content-box;
     border-radius: 50%;
     border: 2px solid var(--purple);
     box-sizing: border-box;
